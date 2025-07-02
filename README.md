@@ -1,2 +1,2 @@
 # monster
-Old code from my programming class that I randomly found on my computer when I opened Notepad++, I believe this was made using Tracy the Turtle in Python
+Old code from my programming class that I randomly found on my computer when I opened Notepad++, I believe this was made using Tracy the Turtle in Python, this project was to essentially make a visual novel but halloween themed since it was around that time when this project was made, my group and I divided the work and so I had to do two scenes, one where you enter a bakery and another where you encounter a monster, this is the code for the monster scene which i attempted to loosely base off the monster from the music video for "Speed Demon" by Dance Gavin Dance. Overall, this was a fun project
